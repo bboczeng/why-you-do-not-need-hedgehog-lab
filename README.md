@@ -31,7 +31,7 @@
 
 复制如下代码到您最新打开的main.py中，点击绿色按钮运行，即可安装
 
-![](imgs/Pycharm代码.png)
+![](imgs/Pycharm安装代码.png)
 
 ```py
 import os

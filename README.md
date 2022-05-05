@@ -55,3 +55,7 @@ print(torch.cuda.is_available())
 ```py
 True
 ```
+
+## 计算速度比较结果
+
+![](imgs/test.png)

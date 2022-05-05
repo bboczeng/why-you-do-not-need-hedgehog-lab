@@ -49,7 +49,7 @@ print(torch.cuda.is_available())
 
 最后的结果应该是
 
-![](最终结果.png)
+![](imgs/最终结果.png)
 
 ```py
 True

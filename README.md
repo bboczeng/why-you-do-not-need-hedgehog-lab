@@ -59,3 +59,37 @@ True
 ## 计算速度比较结果
 
 ![](imgs/test.png)
+
+
+# Hedgehog lab数据和代码都在云端，怕被偷窥？快使用Jupyter-lab搭建科学计算！
+
+打开<https://www.anaconda.com/products/distribution/download-success-2>, 选择操作系统， 安装anaconda。打开anaconda navigator GUI:
+![](img/打开Anaconda-navigator.png)
+
+安装并运行jupyter-lab:
+![](imgs/JupyterLab打开.png)
+
+新建一个Python3的notebook，你就可以立刻在窗口下进行你想要的计算、绘图了！
+![](imgs/jupyter-lab实时计算和画图.png)
+
+可以保存为任意格式，比如latex方便显示公式
+![](imgs/jupyter-lab分享-1.png)
+![](imgs/jupyter-lab分享-2.png)
+
+老师搭建，学生即可使用老师的服务器进行计算(登录ip:8888即可) <https://towardsdatascience.com/how-to-connect-to-jupyterlab-remotely-9180b57c45bb>。
+你自己的服务器搭建之后也可以在本地使用自己得服务器计算哦！比Hedgehog lab安全、可靠、方便呢！
+
+# Hedgehog lab计算慢，不方便放在个人博客？快使用Observable经行浏览器端的可视化和在线！
+想在你的公司网页中让你的用户直接交互式体验可视化的数据吗？Hedgehog lab，又不安全也无隐私，还需要远程服务器渲染，开销大，怎么让用户电脑本地渲染呢？
+
+打开<https://observablehq.com/>，使用你的github账户登录即可。
+
+![](imgs/observable.png)
+随便点开一个demo，Fork成为你自己的库吧！
+![](imgs/observable-2.png)
+拥有hedgehog lab所有的特征，便于分享、可用于公司的网站哟！
+![](imgs/observable-3.png)
+立刻可以公开的你网页<https://observablehq.com/@bofather/a-taste-of-observable>
+
+还可以通过embed功能自动生成JS代码，嵌入你的公司主页、个人博客！是不是完爆hedgehog lab?
+![](imgs/observable-4.png)

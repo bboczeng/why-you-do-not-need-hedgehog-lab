@@ -70,7 +70,7 @@ True
 ![](imgs/JupyterLab打开.png)
 
 新建一个Python3的notebook，你就可以立刻在窗口下进行你想要的计算、绘图了！
-![](imgs/jupyter-lab实时计算和画图)
+![](imgs/jupyter-lab实时计算和画图.png)
 
 可以保存为任意格式，比如latex方便显示公式
 ![](imgs/jupyter-lab分享-1.png)

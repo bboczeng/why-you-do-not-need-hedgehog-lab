@@ -1,6 +1,6 @@
 # hedgehoglab CPU 矩阵乘法时间复杂度分析
  
-Hedgehog Lab 号称自己的WEBGL GPU加速下的矩阵乘法运算是CPU版本的40倍(如下图），这一结果非常吊诡。
+Hedgehog Lab 号称自己的WEBGL GPU加速下的矩阵乘法运算是CPU版本的**40倍**(如下图），这一结果非常吊诡。
 
 ![HHLABGPU加速比较](imgs/HHLABGPU加速比较.jpg)
 
@@ -10,7 +10,7 @@ Hedgehog Lab 号称自己的WEBGL GPU加速下的矩阵乘法运算是CPU版本�
 
 ## hedgehoglab 矩阵乘法算法分析
 
-调阅HHLAB的源代码不难发现，HHLAB的CPU矩阵乘法是未经优化的N^3最差时间复杂度算法。
+调阅HHLAB的源代码不难发现，HHLAB的CPU矩阵乘法是**未经优化的N^3最差时间复杂度算法**。
 
 ![](imgs/hhlab矩阵乘法CPU源代码.png)
 

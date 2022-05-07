@@ -1,6 +1,6 @@
 # hedgehoglab CPU 矩阵乘法时间复杂度分析
  
-Hedgehog Lab 号称自己的WEBGL GPU加速下的矩阵乘法运算是CPU版本的40倍，这一结果非常吊诡。因为在同等条件下，torch自带的CPU/CUDA 矩阵乘法比较结果是，CPU比CUDA还要快。那么，WEBGL的加速性能明显不如CUDA的前提下，Hedgehog Lab是如何做到脚踩CUDA，做到相同条件下，比同一个CPU的矩阵乘法还要快的呢？
+Hedgehog Lab 号称自己的WEBGL GPU加速下的矩阵乘法运算是CPU版本的40倍，这一结果非常吊诡。因为在同等条件下，torch自带的CPU/CUDA 矩阵乘法比较结果是，CPU比CUDA还要快100%。那么，WEBGL的加速性能明显不如CUDA的前提下，Hedgehog Lab是如何做到脚踩CUDA，做到相同条件下，比同一个CPU的矩阵乘法还要快的呢？
 
 ## hedgehoglab 矩阵乘法算法分析
 

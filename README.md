@@ -1,6 +1,6 @@
 # Benchmark Hedgehog Lab 官方账号：
 
-请关注：<https://twitter.com/HedgehoglabPerf>
+- 请关注：<https://twitter.com/HedgehoglabPerf>
 
 # 最新内容
 

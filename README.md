@@ -4,7 +4,7 @@
 
 # 最新内容
 
-- [完全基于Python的科学计算平台](https://github.com/Cat-Computing-Universe/PyLab)
+- [一个全新的完全基于Python的科学计算平台](https://github.com/Cat-Computing-Universe/PyLab)
 
 
 - [什么叫代码宇宙？](代码宇宙/README.md)

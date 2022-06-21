@@ -4,7 +4,9 @@
 
 # 最新内容
 
-- [完全基于Python的科学计算平台](https://bboczeng.github.io/PyLab/)
+- [完全基于Python的科学计算平台](https://github.com/Cat-Computing-Universe/PyLab)
+
+
 - [什么叫代码宇宙？](代码宇宙/README.md)
 - [没有GPU的GPU加速](GPU加速/README.md)
 - [Hedgehog lab CPU 矩阵乘法时间复杂度真相分析](hedgehoglab矩阵乘法分析/README.md)
